@@ -1,0 +1,30 @@
+/* This is a comment */
+
+h1 {
+  color: red;
+}
+
+div span {
+  color: blue;
+}
+
+div > p > span {
+  color: purple;
+}
+
+p{
+  color: black;
+
+}
+.title{
+  color: yellow;
+}
+ #orange-paragraph{
+   color: orange;
+ }
+ .big-text{
+   font-size: 45px;
+ }
+.title.big-text > span{
+  color: green;
+}
